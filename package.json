@@ -11,12 +11,16 @@
     "url": "git+https://github.com/jacoder/angular-learn.git"
   },
   "keywords": [
-    "Angular\\"
+    "Angular"
   ],
-  "author": "",
+  "author": "jaCoder",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jacoder/angular-learn/issues"
   },
-  "homepage": "https://github.com/jacoder/angular-learn#readme"
+  "homepage": "https://github.com/jacoder/angular-learn#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1"
+  }
 }
